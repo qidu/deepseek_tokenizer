@@ -1,0 +1,14 @@
+{
+  "name": "deepseek-v3-tokenizer",
+  "version": "1.0.0",
+  "description": "DeepSeek V3 tokenizer example using @huggingface/transformers",
+  "type": "module",
+  "main": "deepseek_tokenizer.js",
+  "dependencies": {
+    "@huggingface/transformers": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node deepseek_tokenizer.js"
+  },
+  "license": "MIT"
+}
