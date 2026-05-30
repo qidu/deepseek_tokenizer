@@ -1,6 +1,6 @@
 import { AutoTokenizer } from "@huggingface/transformers";
 
-const tokenizer = await AutoTokenizer.fromPretrained("./", {
+const tokenizer = await AutoTokenizer.from_pretrained("./", {
   legacy: true,
 });
 
