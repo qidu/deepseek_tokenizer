@@ -21,7 +21,8 @@ python deepseek_tokenizer.py
 
 ```bash
 npm install
-npm start
+
+node deepseek_tokenizer.js
 ```
 
 ## License
